@@ -1,7 +1,5 @@
 # GO BASICS
 
-## Basic examples of Go.
-
 - Variables & Functions
 - Pointers
 - Types & Structs
